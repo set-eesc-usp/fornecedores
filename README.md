@@ -12,3 +12,10 @@ O sistema não utilizará framework mas utilizará um sistema ORM para acesso ao
 
 ## Instalação
 
+## Lista de colaboradores
+
+* Masaki
+* Dorival
+* Wlaldemir
+
+
