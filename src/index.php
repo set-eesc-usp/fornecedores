@@ -3,7 +3,7 @@
    <title>Cadastro de Fornecedores da EESC</title>
  </head>
  <body>
-   Lista de Fornecedores
+   <h1>Lista de Fornecedores</h1>
 
    <ol>
   <li>Fornecedor 01</li>
